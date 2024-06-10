@@ -21,6 +21,11 @@ You can test the app with docker using
 docker-compose up --build
 ```
 Or you can test the app with terraform using
+```bash
+terraform apply
+```
+
+to initialize the terraform and 
 
 ```bash
 terraform apply
