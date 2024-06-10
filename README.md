@@ -12,6 +12,7 @@ git clone git@github.com:tinmaungzin/wgw-chat-api.git
 Install dependencies.
 ```bash
 npm install
+```
 
 ## Usage
 You can test the app with docker using
