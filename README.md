@@ -22,7 +22,7 @@ docker-compose up --build
 ```
 Or you can test the app with terraform using
 ```bash
-terraform apply
+terraform init
 ```
 
 to initialize the terraform and 
